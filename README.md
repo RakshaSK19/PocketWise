@@ -42,3 +42,12 @@ Personal-Expense-Tracker/
 
 ## Author
 Raksha S Kalagare
+
+
+## Screenshots
+### Dashboard
+![PocketWise Dashboard](screenshots/dashboard.png)
+
+### Category Breakdown
+![Category Breakdown](screenshots/categories1.png)
+![Category Breakdown](screenshots/categories2.png)
